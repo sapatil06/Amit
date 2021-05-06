@@ -6,6 +6,8 @@ public class Sangram {
 		System.out.println("This is class by sangram");
 		
 		System.out.println("Line to check commit");
+		
+		System.out.println("Line to check conflict");
 	}
 
 }
