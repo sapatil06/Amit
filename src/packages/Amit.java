@@ -6,6 +6,9 @@ public class Amit {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is class by Amit");
+		System.out.println("Added by sangram");
+
+		
 	}
 
 }
